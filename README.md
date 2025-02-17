@@ -52,7 +52,6 @@ I am a **Junior Software Engineer** with a solid foundation in both **Frontend**
 
 - 📧 Email: [nkclgbgp143@gmail.com](mailto:your.email@example.com)
 - 🌐 Website/Portfolio: [MyPortfolio](https://yourportfolio.com)
-- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ---
 
