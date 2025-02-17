@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGfXJnr-rs/rX4sNOziZ2m5RXTFMH7qMQ/watch?utm_content=DAGfXJnr-rs&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
+![logo](https://github.com/Nitish601/Nitish601/blob/main/Copy%20of%20Nitish%20kumar.gif)
 # Hi, I'm Nitish Kumar
 
 ### Junior Software Engineer | Web Developer | Passionate Learner
