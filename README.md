@@ -1,4 +1,4 @@
-![logo](https://github.com/Nitish601/Nitish601/blob/main/Copy%20of%20Nitish%20kumar.gif)
+![logo]()
 
 ### Junior Software Engineer | Web Developer | Passionate Learner
 
